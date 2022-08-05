@@ -1,0 +1,55 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E501" />
+          <option value="E302" />
+          <option value="E303" />
+          <option value="W605" />
+          <option value="E305" />
+          <option value="E114" />
+          <option value="E306" />
+          <option value="E402" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N806" />
+          <option value="N802" />
+          <option value="N801" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="main.*" />
+          <option value="rooms.AUTO_INCREMENT" />
+          <option value="rooms.*" />
+          <option value="speech_recognition" />
+          <option value="frame2.*" />
+          <option value="linkedin.LOGIN" />
+          <option value="linkedin.NUMBER" />
+          <option value="linkedin.YOUR" />
+          <option value="linkedin.EMAIL" />
+          <option value="linkedin.PASSWORD" />
+          <option value="linkedin.YOUR_LOGIN_EMAIL" />
+          <option value="linkedin.YOUR_LOGIN_PASSWORD" />
+          <option value="linkedin.YOUR_PHONE_NUMBER" />
+          <option value="twitter.EMAIL" />
+          <option value="twitter.YOUR_FACEBOOK_PASSWORD" />
+          <option value="twitter.YOUR_FACEBOOK_LOGIN" />
+          <option value="twitter.YOUR_CHROME_DRIVER_PATH" />
+          <option value="twitter.YOUR_FACEBOOK_LOGIN_EMAIL" />
+          <option value="twitter.YOUR_TWITTER_EMAIL" />
+          <option value="twitter.YOUR_TWITTER_PASSWORD" />
+          <option value="twilio.rest" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
